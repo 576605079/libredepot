@@ -105,6 +105,8 @@ export const Header = () => {
 			<div className="mt-5 flex justify-center lg:hidden">
 				<PublicationLogo />
 			</div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5020583079217470"
+     crossorigin="anonymous"></script>
 		</header>
 	);
 };
