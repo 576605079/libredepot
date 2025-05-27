@@ -119,6 +119,8 @@ export default function Index({ publication, initialAllPosts, initialPageInfo }:
 							__html: JSON.stringify(addPublicationJsonLd(publication)),
 						}}
 					/>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5020583079217470"
+     crossorigin="anonymous"></script>
 				</Head>
 				<Header />
 				<Container className="flex flex-col items-stretch gap-10 px-5 pb-10">
